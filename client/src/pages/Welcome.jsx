@@ -47,7 +47,7 @@ const Welcome = () => {
           >
             <h3 className="font-semibold text-gray-800 mb-1">I'm a Student</h3>
             <p className="text-xs text-gray-500">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry
+            Join polls, answer questions, and see results
             </p>
           </div>
 
